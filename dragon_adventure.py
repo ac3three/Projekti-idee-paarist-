@@ -1,7 +1,6 @@
 import random
 
 
-# Two simple functions
 
 def show_status():
     print("\n--- HERO STATUS ---")
