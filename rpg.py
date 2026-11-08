@@ -22,7 +22,7 @@ def attack():
 # Create a hero
 
 print("========================")
-print("    RPG game")
+print("    Role-playing game")
 print("========================")
 print("Defeat two goblins, then fight the dragon!")
 name = input("Hero name: ")
