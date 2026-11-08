@@ -1,6 +1,7 @@
 import random
 
-
+# Vladislav Lebedev
+# Vadim Kopõlov
 
 def show_status():
     print("\n--- HERO STATUS ---")
@@ -21,7 +22,7 @@ def attack():
 # Create a hero
 
 print("========================")
-print("    DRAGON ADVENTURE")
+print("    RPG game")
 print("========================")
 print("Defeat two goblins, then fight the dragon!")
 name = input("Hero name: ")
